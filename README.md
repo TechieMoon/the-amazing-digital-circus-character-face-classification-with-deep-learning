@@ -1,0 +1,2 @@
+# the-amazing-digital-circus-character-face-classification-with-deep-learning
+This repository contains code for creating, testing, and saving a deep learning model for classifying the faces of 8 characters from the animation "The Amazing Digital Circus". The project utilizes transfer learning with a pretrained ResNet model and provides detailed instructions for replicating the model training process with your own dataset.
