@@ -6,7 +6,7 @@ Description: This repository contains code for creating, testing, and saving a d
 Welcome to my GitHub repository! This project focuses on classifying character faces from the animation "The Amazing Digital Circus" using deep learning techniques.
 
 ## Prerequisites
-Install `Python`, `PyTorch`, `CUDA`, and `cuDNN` libraries on your computer.
+Install `Python`, `PyTorch`, `Numpy`, `Matplotlib`, `CUDA`, and `cuDNN` libraries on your computer.
 Ensure you have an NVIDIA graphics card.
 
 ## Dataset Preparation
