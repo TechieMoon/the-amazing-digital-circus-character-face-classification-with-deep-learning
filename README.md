@@ -32,7 +32,7 @@ I have created a dataset of faces for eight characters from "The Amazing Digital
 Make sure each character folder in the `train` folder contains 96 images and each character folder in the `val` folder contains 24 images. To comply with copyright issues, I have blurred the character images.
 
 ## Getting Started
-1. Install Visual Studio Code and run the provided Jupyter Notebook file.
+1. Install Visual Studio Code and run the provided Jupyter Notebook file named `animation_character_classifier.ipynb` ![animation_character_classifier.ipynb](animation_character_classifier.ipynb).
 2. The code is divided into steps:
 - Step 0: Check if the GPU is available by verifying that `CUDA is available.` is printed.
 - Steps 1-6: Execute these steps to train the model. If done correctly, the trained model will be saved as `best_model.pth`.
